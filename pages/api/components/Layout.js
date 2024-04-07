@@ -159,6 +159,8 @@ const Layout = ({ children }) => {
               Image Chords Finder
             </Typography>
 
+            <Link href={"/yt"}>YT Tutorials</Link>
+
             <IconButton
               color="inherit"
               aria-label="open drawer"
